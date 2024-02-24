@@ -4,10 +4,15 @@ def main():
     ##################################################
     # Comlete your code here
     ##################################################
-
+    original_str = 'Python Programming'
+    
+    sub1 = 'Python'
+    sub2 = 'Programming'
+    merg_str = sub1 + sub2 
+    
     print(sub2)
     print(sub1)
-    print(merged_str)
+    print(merg_str)
 
     #########################################
     # Do not delete the return statement
