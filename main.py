@@ -12,7 +12,7 @@ def main():
     
     print(sub2)
     print(sub1)
-    print(merged_str)
+    print(merg_str)
 
     #########################################
     # Do not delete the return statement
